@@ -1,2 +1,2 @@
-# AI-Algorithms
+# AI-Problems-Algorithms
 This repository contains implementations of basic AI algorithms which are used to solve popular problems.
