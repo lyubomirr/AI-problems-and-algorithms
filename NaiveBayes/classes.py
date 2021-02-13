@@ -1,0 +1,2 @@
+REPUBLICAN = 'republican'
+DEMOCRAT = 'democrat'
