@@ -2,6 +2,7 @@
 
 
 This is an implementation of __K-Means clustering algorithm__ used to cluster a set of random points. It also visualizes the points, cetroids and clusters.
+It uses __K-means++__ algorithm to choose the inital positions of the centroids.
 
 There are 3 cli args:
 - *dataset* - used to specify which dataset to use the "normal" or "unbalance" one;
