@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-This is an implementation of the __Minimax algorithm with alpha-beta pruning__ used for playig the game Tic-Tac-Toe
+This is an implementation of the __Minimax algorithm with alpha-beta pruning__ used for playing the game Tic-Tac-Toe
 
 At the beginning you can choose if you wish to start first or the computer.
 At every turn you input the coordinates of the cell you wanna play in and the board is displayed.
